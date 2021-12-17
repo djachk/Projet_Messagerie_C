@@ -1,0 +1,3 @@
+Le makefile produit les executables
+- tchatche_serveur pour la partie serveur
+- tchatche pour la partie client 
